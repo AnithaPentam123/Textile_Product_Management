@@ -41,21 +41,3 @@ Data Storage: CSV File
 
 Libraries: csv, os, datetime
 
-Would you like a shorter version for a report or an extended version for documentation?
-
-
-
-
-
-
-
-
-
-
-
-Tools
-
-
-
-ChatGPT can make mistakes. Check important info. See Cookie Preferences.
-
